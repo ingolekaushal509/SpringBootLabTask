@@ -1,0 +1,29 @@
+company:
+ companyName: Tech Solution
+ employeeCount: 150
+ annualRevenue: 2500000.50
+ active: true
+ branchCode: H
+ employeeName:
+  - rehan
+  - girish
+  - Harsh
+  - ritesh
+  - harish
+ employeeDepartments:
+  101: Java    
+  102: Python   
+  103: Testing
+ uniqueSkills:
+  - Java    
+  - Spring Boot
+  - Microservices
+ address:
+  city: Hyderabad
+  state: Telangana
+  country: India
+ location:
+  - Hyderabad
+  - Banglore
+  - pune
+ 
